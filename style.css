@@ -1,0 +1,42 @@
+body {
+	background-color: #212121;
+}
+
+.header__title {
+	color: #fff;
+	fsz: 20px;
+}
+
+.header__nav {
+	color: #E0E0E0;
+}
+
+.header__nav:hover {
+	opacity: 50%;
+}
+
+.main__title, .main__section__subtitle {
+	color: green;
+}
+
+.main__section__subtitle {
+	border-bottom: green 1px solid;
+}
+
+.main__section__lead, .main__section__text {
+	color: #E0E0E0;
+}
+
+.footer {
+	margin-top: 70px;
+}
+
+.footer__btn {
+	border-radius: 4px;
+	margin-left: 150px;
+	top: 50px;
+  left: 140px;
+  /*right: 140px;*/
+  height: 20px;
+  width: 150px;
+}
